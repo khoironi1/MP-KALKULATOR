@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-blue-50 font-sans; }
+input[type=number] { -moz-appearance: textfield; }
